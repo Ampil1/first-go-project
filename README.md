@@ -6,3 +6,6 @@ To build the project, run the following command:
 
 ```bash
 go run build
+
+```bash
+go run main.go
